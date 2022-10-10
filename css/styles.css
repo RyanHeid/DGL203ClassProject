@@ -18,3 +18,8 @@ header h1 {
  margin: 0 auto;
  padding: 60px 0;
 }
+
+img {
+ width: 800px;
+ height: 600px;
+}
